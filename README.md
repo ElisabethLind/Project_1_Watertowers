@@ -11,7 +11,7 @@
 ## Map 
  - Geojson produced with geojson.io 
  - Visualization in Adobe Illustrator 
- - ai2html (didn't work properly*) so I decided to export every layer as an jpg  - you can see the project in my repository project_watertowers
+ - ai2html (didn't work properly(*)) so I decided to export every layer as an jpg  - you can see the project in my repository project_watertowers
 
 ## Graphics 
 - Cleaning in Excel
@@ -20,8 +20,8 @@
 ## Text, photos and Video by me 
 
 ## HTML 
-I used the scrollytelling-template (images) by Jonathan Soma: https://github.com/jsoma/page-templates
+I used the scrollytelling-template (ai2html) and the header-template by Jonathan Soma: https://github.com/jsoma/page-templates
 
 
 
-* I really tried to figure out what's the problem, because the first image is always the wohle AI-File with all layers on - altough my png is just the basemap as you can see it in my github-respository. So if anybody has an idea - please tell me! :-)
+(*)I really tried to figure out what's the problem, because the first image is always the wohle AI-File with all layers on - altough my png is just the basemap as you can see it in my github-respository. So if anybody has an idea - please tell me! :-)
